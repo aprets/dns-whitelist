@@ -1,0 +1,137 @@
+! CNAME for (s3.amazonaws.com)
+@@||s3-1.amazonaws.com^$important
+
+@@||s3.amazonaws.com^$important
+
+@@||github.com^$important
+
+@@||githubusercontent.com^$important
+
+! CNAME for (raw.githubusercontent.com)
+@@||github.map.fastly.net^$important
+
+@@||gitlab.com^$important
+
+@@||sourceforge.net^$important
+
+! alexa
+@@||fls-na.amazon.com^$important
+
+! alexa 2
+@@||control.kochava.com^$important
+
+! alexa 3
+@@||device-metrics-us-2.amazon.com^$important
+
+! amazon app ads
+@@||amazon-adsystem.com^$important
+
+! amazon app 2
+@@||px.moatads.com^$important
+
+! CNAME for (px.moatads.com)
+@@||wildcard.moatads.com.edgekey.net^$important
+
+! CNAME for (px.moatads.com)
+@@||e13136.g.akamaiedge.net^$important
+
+! amazon app 3
+@@||secure-gl.imrworldwide.com^$important
+
+! amazon app 4
+@@||pixel.adsafeprotected.com^$important
+
+! CNAME for (pixel.adsafeprotected.com)
+@@||anycast.pixel.adsafeprotected.com^$important
+
+! amazon app 5
+@@||bs.serving-sys.com^$important
+
+! CNAME for (bs.serving-sys.com)
+@@||bs.eyeblaster.akadns.net^$important
+
+! CNAME for (bs.serving-sys.com)
+@@||bsla.eyeblaster.akadns.net^$important
+
+! amazon app 6
+@@||adsafeprotected.com^$important
+
+! CNAME for (static.adsafeprotected.com)
+@@||anycast.static.adsafeprotected.com^$important
+
+@@||google.com^$important
+
+@@||www.google.com^$important
+
+@@||youtube.com^$important
+
+@@||www.youtube.com^$important
+
+! CNAME for (youtube.com)
+@@||youtube-ui.l.google.com^$important
+
+@@||stackoverflow.com^$important
+
+@@||www.stackoverflow.com^$important
+
+@@||dropbox.com^$important
+
+@@||www.dropbox.com^$important
+
+! CNAME for (dropbox.com)
+@@||www.dropbox-dns.com^$important
+
+@@||adsafeprotected.com^$important
+
+@@||control.kochava.com^$important
+
+@@||secure-gl.imrworldwide.com^$important
+
+! twitter images
+@@||pbs.twimg.com^$important
+
+! twitter images
+@@||www.pbs.twimg.com^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs196.wac.edgecastcdn.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs2-wac.apr-8315.edgecastdns.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs2-wac-us.8315.ecdns.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs45.wac.edgecastcdn.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs2-wac.apr-8315.edgecastdns.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs2-wac-us.8315.ecdns.net^$important
+
+! CNAME for (pbs.twimg.com)
+@@||cs45.wac.edgecastcdn.net^$important
+
+@@||pfsense.org^$important
+
+@@||netgate.com^$important
+
+@@||s.youtube.com^$important
+
+@@||www.googleadservices.com^$important
+
+@@||dartsearch.net^$important
+
+@@||www.googletagmanager.com^$important
+
+@@||www.googletagservices.com^$important
+
+@@||ad.doubleclick.net^$important
+
+@@||clickserve.dartsearch.net^$important
+
+@@||liveperson.com^$important
+
+@@||liveperson.net^$important
